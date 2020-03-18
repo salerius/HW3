@@ -1,0 +1,11 @@
+D:\c#\HW\Less3\Lesson3\HW3\bin\Debug\netcoreapp3.1\HW3.exe
+D:\c#\HW\Less3\Lesson3\HW3\bin\Debug\netcoreapp3.1\HW3.deps.json
+D:\c#\HW\Less3\Lesson3\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.json
+D:\c#\HW\Less3\Lesson3\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.dev.json
+D:\c#\HW\Less3\Lesson3\HW3\bin\Debug\netcoreapp3.1\HW3.dll
+D:\c#\HW\Less3\Lesson3\HW3\bin\Debug\netcoreapp3.1\HW3.pdb
+D:\c#\HW\Less3\Lesson3\HW3\obj\Debug\netcoreapp3.1\HW3.csprojAssemblyReference.cache
+D:\c#\HW\Less3\Lesson3\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfoInputs.cache
+D:\c#\HW\Less3\Lesson3\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfo.cs
+D:\c#\HW\Less3\Lesson3\HW3\obj\Debug\netcoreapp3.1\HW3.dll
+D:\c#\HW\Less3\Lesson3\HW3\obj\Debug\netcoreapp3.1\HW3.pdb
